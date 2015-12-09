@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ForShaderDemoPurpose.CSharp.Plugins", "UnityVS.ForShaderDemoPurpose.CSharp.Plugins.csproj", "{DD91EF57-A0B8-21FC-3C9B-2648A7A077F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ForShaderDemoPurpose.CSharp", "UnityVS.ForShaderDemoPurpose.CSharp.csproj", "{0B027569-7B44-E9BB-73A0-B38EF3F4AAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD91EF57-A0B8-21FC-3C9B-2648A7A077F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD91EF57-A0B8-21FC-3C9B-2648A7A077F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD91EF57-A0B8-21FC-3C9B-2648A7A077F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD91EF57-A0B8-21FC-3C9B-2648A7A077F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B027569-7B44-E9BB-73A0-B38EF3F4AAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B027569-7B44-E9BB-73A0-B38EF3F4AAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B027569-7B44-E9BB-73A0-B38EF3F4AAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B027569-7B44-E9BB-73A0-B38EF3F4AAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
